@@ -11,6 +11,7 @@ public class HelloGit {
         System.out.println("HelloGit-1");
         System.out.println("HelloGit-2");
         System.out.println("HelloGit-创建分支");
+        System.out.println("HelloGit-分支添加");
     }
 
 }
