@@ -16,6 +16,7 @@ public class HelloGit {
         System.out.println("HelloGit-在gitHub中添加内容");
         System.out.println("HelloGit-2021-04-13！");
         System.out.println("HelloGit-在gitHub中克隆了项目，并修改了内容！");
+        System.out.println("HelloGit-2021-04-13 16:21:10！");
     }
 
 }
